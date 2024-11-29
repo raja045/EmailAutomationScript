@@ -49,5 +49,7 @@ Before running the script, ensure you have the following:
 
 1. Creating an python environment in easiest way.
    - Visit the site and create an account, https://colab.google
-   - 
+   - Click on File > Open a New NoteBook
+   - Open the .ipynb file provided above. Click here to download.
+   
 
