@@ -58,6 +58,6 @@ Before running the script, ensure you have the following:
 ---
 
 ### Useful Resources:
-[How to find the APP password for the google account](https://www.hostpapa.com/knowledgebase/how-to-create-and-use-google-app-passwords/)
-[How to convert the Normal email text into HTML content](https://www.textfixer.com/html/convert-email-to-html.php)
+- [How to find the APP password for the google account](https://www.hostpapa.com/knowledgebase/how-to-create-and-use-google-app-passwords/)
+- [How to convert the Normal email text into HTML content](https://www.textfixer.com/html/convert-email-to-html.php)
 
