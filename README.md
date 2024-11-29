@@ -38,18 +38,26 @@ Before running the script, ensure you have the following:
    file_path = '/path/to/emaillist.csv'
 5. Customize the email subject and body as needed in the script.
 
+---
+
 ## Usage (If you have a python environment ready)
 1. Run the script in your Python environment:
    ```bash
    python3 email_automation.py
 2. The script will loop through the recipient list and send the email to each address.
 3. Monitor the console for status updates on email delivery.
-
+   
 ## Usage 2.0 ( If you do not have a python Environment)
-
 1. Creating an python environment in easiest way.
    - Visit the site and create an account, https://colab.google
    - Click on File > Open a New NoteBook
-   - Open the .ipynb file provided above. Click here to download.
-   
+     
+2. Open the .ipynb file provided above.
+3. make the necessary changes and run the above file.
+
+---
+
+### Useful Resources:
+How to find the APP password for the google account.
+How to convert the Normal email text into HTML content.
 
