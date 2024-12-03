@@ -36,6 +36,8 @@ Before running the script, ensure you have the following:
  4. **Replace the file path to your CSV file**:
    ```python
    file_path = '/path/to/emaillist.csv'
+   ```
+
 5. Customize the email subject and body as needed in the script.
 
 ---
