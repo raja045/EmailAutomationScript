@@ -22,7 +22,7 @@ Before running the script, ensure you have the following:
    pip install pandas
 3. A Gmail account with:
   - **SMTP** access enabled.
-  - **App Password** if two-factor authentication (2FA) is active.
+  - **App Password**, This is different from original gmail password. [Click Here](https://www.hostpapa.com/knowledgebase/how-to-create-and-use-google-app-passwords/ 
 
 ## Setup Instructions
 1. **Clone this repository** or **download the script file**.
@@ -32,8 +32,8 @@ Before running the script, ensure you have the following:
 3. **Update the script with your Gmail credentials**:
    ```python
    sender_email = "your-email@gmail.com"
-   sender_password = "your-app-password"
-4. **Replace the file path to your CSV file**:
+   sender_password = "Not your gmail password, This is the app password." (Visit the useful Resources below to find the APP password)
+ 4. **Replace the file path to your CSV file**:
    ```python
    file_path = '/path/to/emaillist.csv'
 5. Customize the email subject and body as needed in the script.
