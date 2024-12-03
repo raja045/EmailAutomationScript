@@ -24,6 +24,8 @@ Before running the script, ensure you have the following:
   - **SMTP** access enabled.
   - **App Password**, This is different from original gmail password. [Click Here](https://www.hostpapa.com/knowledgebase/how-to-create-and-use-google-app-passwords/)
 
+---
+
 ## Setup Instructions
 1. **Clone this repository** or **download the script file**.
 2. **Prepare your recipient list** in a CSV file with the following columns:
@@ -52,6 +54,7 @@ Before running the script, ensure you have the following:
 ## Usage 2.0 ( If you do not have a python Environment)
 1. Creating an python environment in easiest way.
    - Visit the site and create an account, https://colab.google
+   - Helpful link for [google colab usage.](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)
    - Click on File > Open a New NoteBook
      
 2. Open the .ipynb file provided above.
@@ -62,4 +65,5 @@ Before running the script, ensure you have the following:
 ### Useful Resources:
 - [How to find the APP password for the google account](https://www.hostpapa.com/knowledgebase/how-to-create-and-use-google-app-passwords/)
 - [How to convert the Normal email text into HTML content](https://www.textfixer.com/html/convert-email-to-html.php)
+- [Usage of google colab](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)
 
