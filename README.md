@@ -22,7 +22,7 @@ Before running the script, ensure you have the following:
    pip install pandas
 3. A Gmail account with:
   - **SMTP** access enabled.
-  - **App Password**, This is different from original gmail password. [Click Here](https://www.hostpapa.com/knowledgebase/how-to-create-and-use-google-app-passwords/ 
+  - **App Password**, This is different from original gmail password. [Click Here](https://www.hostpapa.com/knowledgebase/how-to-create-and-use-google-app-passwords/)
 
 ## Setup Instructions
 1. **Clone this repository** or **download the script file**.
